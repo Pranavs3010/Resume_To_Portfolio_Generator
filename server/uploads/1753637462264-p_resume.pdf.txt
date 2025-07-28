@@ -1,0 +1,52 @@
+Pranav Shinde
+MERN Stack Developer | pranavs3010@gmail.com | 7499632789
+LinkedIn | GitHub | LeetCode | HackerRank | CodeChef
+Summary
+Final-year Computer Science Engineering student skilled in MERN stack, Android development, advanced
+Python, and OOP in Java. Passionate about building real-world applications and solving complex
+problems. Seeking internship or full-time roles to contribute to innovative tech teams.
+Education
+Kolhapur Institute of Technology
+2022 – 2026
+B.Tech in Computer Science and Engineering
+Kolhapur, Maharashtra
+Saraswati Higher Secondary School
+2021 – 2022
+HSC, Maharashtra Board
+Nanded, Maharashtra
+Gujrati High School
+2019 – 2020
+SSC, Maharashtra Board
+Nanded, Maharashtra
+Projects
+Prescripto - Doctor Appointment App | MERN Stack
+2025
+• Developed a full-featured healthcare appointment system with real-time doctor availability and notifications.
+• Implemented secure user roles (patient/doctor) with MongoDB, Express, React, Node.js.
+• Achieved real-time performance using socket-based notifications.
+Placement Management System (PMS) | HTML, CSS, JS, PHP
+2024
+• Built a responsive platform to manage campus placement data for students and companies.
+• Used PHP backend with CRUD operations and JavaScript for client-side validation.
+Experience
+Cyber Security Intern (Virtual)
+Sep 2023 – Nov 2023
+Kolhapur
+• Learned penetration testing, SQL injection, XSS attacks, and fundamentals of ethical hacking.
+• Explored OWASP Top 10 vulnerabilities in lab simulations.
+Android Development Intern (Virtual)
+Jan 2025 – Mar 2025
+Kolhapur
+• Created Android apps with Kotlin and integrated Firebase for real-time DB and authentication.
+• Delivered two prototypes during internship using Material Design and REST APIs.
+Technical Skills
+Languages: JavaScript, Python, Java, C++, C, Dart, Golang
+Frameworks/Libraries: React, Node.js, Express.js, Django, Flask, Pandas, Kotlin
+Tools & Platforms: GitHub, AWS, Firebase, Docker, Postman, Flutter
+Databases: MongoDB, MySQL, PostgreSQL, PHP
+Certifications
+• Java Programming – IIT Bombay (Techgyan)
+• Python Basics and advance – IIT Bombay (Techgyan)
+• MERN Full Stack Development – 30DC
+• Data Science Foundation – Infosys Springboard
+• C++ and DSA in C++ – GeeksforGeeks
